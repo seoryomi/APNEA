@@ -2,6 +2,8 @@
   <h2><a href="https://vibe.naver.com/album/368262" target="_blank" title="VIVE_ANA-042">song list, APNEA 1st</a></h2>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/r7ND6ErHegU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
+  <input type="button" value="건구만 클릭하세요" onclick="alert('사랑해')">
+  <br><br>
   <ol>
               <li>intro <input type="checkbox"></li>
               <li>tongue <input type="checkbox"></li>
